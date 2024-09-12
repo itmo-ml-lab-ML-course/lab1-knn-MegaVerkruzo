@@ -1,0 +1,9 @@
+{
+  "test_size": 0.3,
+  "optuna_size":  0.3,
+  "random_seed": 53,
+  "min_radius": 500,
+  "radius": 3000,
+  "max_neighbour_count": 5,
+  "n_trials": 50
+}
